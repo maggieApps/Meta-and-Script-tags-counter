@@ -1,0 +1,1 @@
+The script checks how many 'meta' and 'script' tags a website has. You can run the code within a website's console.
